@@ -1,4 +1,4 @@
-#Steps
+
 name: Semgrep
 on:
   push: 
